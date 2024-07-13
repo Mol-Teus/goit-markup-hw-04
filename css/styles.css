@@ -133,7 +133,7 @@ background-color:#404bbf;
 /*----------------H1 section---------------*/
 
 .main-title {
-    background-color:#2e2f42; 
+    background-color:#2e2f42;
     padding: 188px 0;
     display: flex;
     justify-content: center;
@@ -156,7 +156,7 @@ img {
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
-        background-color:#2e2f42;
+        /*background-color:#2e2f42;*/
         color: #fff;
         max-width: 496px;
          

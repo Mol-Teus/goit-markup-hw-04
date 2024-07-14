@@ -400,11 +400,41 @@ color: #434455;
 text-align: center;
  
 }
-.our-team-img {
+.our-team-imgone {
     display: block;
     max-width: 100%;
-     height: auto;
+    height: auto;
 }
+.our-team-imgtwo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.our-team-imgtre {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.our-team-imgfour {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.our-team-imgfive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.our-team-imgsix {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
 .our-team-list {
     background-color: #F4F4FD;
     display: flex;

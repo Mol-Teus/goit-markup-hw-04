@@ -569,8 +569,7 @@ margin-right: 120px;
     justify-content: center;
     align-items: center;
     gap: 16px;
-    max-width: 208px;
-        height: 40px;
+    
 }
 .foot-soc-item {
     display: flex;

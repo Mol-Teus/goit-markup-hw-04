@@ -525,7 +525,7 @@ list-style: none;
 .container-footer {
     display: flex;
     align-items: baseline;
-
+margin-right: 120px
 }
 .container {
     max-width: 1158px; 

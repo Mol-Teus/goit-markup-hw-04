@@ -607,6 +607,9 @@ color: #4d5ae5;
 background-color: #31d0aa;
 
 }
+.foot-soc-icon {
+   fill:#f4f4fd;
+}
  .social-container {
     max-width: 208px;
     height: 40px;

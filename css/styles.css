@@ -217,7 +217,7 @@ img {
     gap: 24px;
 }
 .features-icon-container {
-    border: 1px solid #8e8f99;
+     
         border-radius: 4px;
         width: 264px;
         height: 112px;
@@ -353,8 +353,7 @@ fill: #f4f4fd;
     padding: 24px 100px;
     width: 264px;
     height: 112px;
-    background-color: #f4f4fd;
-     
+    background-color: #f4f4fd;   
     margin-bottom: 8px;
     }
 

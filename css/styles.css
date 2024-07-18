@@ -345,13 +345,28 @@ fill: #f4f4fd;
  color: #4d5ae5;
  cursor: pointer;
 }
+.icon-features {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 100px;
+    width: 264px;
+    height: 112px;
+    background-color: #f4f4fd;
+     
+    margin-bottom: 8px;
+    }
+
+.features-icon-container {
+    width: 64px;
+    height: 64px;
+ }
 .icon-list-item {
      
     display: flex;
     width: 40px;
-    height: 40px;
-    
-     
+    height: 40px; 
 }
 .teammemb {
 padding: 32px 0;
